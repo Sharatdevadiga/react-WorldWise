@@ -14,7 +14,7 @@ const AppLayout = lazy(() => import("./pages/AppLayout"));
 const Login = lazy(() => import("./pages/Login"));
 
 import CityList from "./components/CityList";
-import CountryList from "./components/countryList";
+import CountryList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
 
